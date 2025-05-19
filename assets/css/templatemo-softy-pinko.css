@@ -680,7 +680,7 @@ welcome
 
 }
 #im {
-  background-image: url(/assets/images/imgg2.JPEG);
+  background-image: url(../images/imgg2.JPEG);
   background-position: center;
   background-size: cover; 
 }
