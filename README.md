@@ -52,7 +52,7 @@ Contact Us
 For questions, feedback, or inquiries, please reach out:
 
 Phone: +251 96859 0145, +251 902646322
-Email: leulyeb@gmail.com
+Email: leulyeb@gmail.com , leulaaa12@gmail.com
 
 Getting Started
 
